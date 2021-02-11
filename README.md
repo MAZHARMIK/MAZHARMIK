@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Design Patterns
 - 📫 How to reach me: <br> 
             <ul>
-                  <li>Gmail    : mkhan31995@gmail.com</li>
-                  <li>LinkedIn : https://www.linkedin.com/in/mazhar-imam-khan-95a34ab3/</li>
+                  <li>Gmail :email:    : mkhan31995@gmail.com</li>
+                  <li>LinkedIn :earth_africa:: https://www.linkedin.com/in/mazhar-imam-khan-95a34ab3/</li>
            </ul>
 - ⚡ Fun fact: coding is fun
 
