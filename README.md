@@ -4,7 +4,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a>
 - 🌱 I’m currently learning Design Patterns
-- 📫 How to reach me: mkhan31995@gmail.com
+- 📫 How to reach me: 
+        Gmail    : mkhan31995@gmail.com
+        LinkedIn : https://www.linkedin.com/in/mazhar-imam-khan-95a34ab3/
 - ⚡ Fun fact: coding is fun
 
 ![MAZHARMIK's github stats](https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical)
