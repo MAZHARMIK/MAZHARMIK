@@ -9,7 +9,7 @@ Here are some ideas to get you started:
                   <li>Gmail :email:    : mkhan31995@gmail.com</li>
                   <li>LinkedIn :earth_africa:: https://www.linkedin.com/in/mazhar-imam-khan-95a34ab3/</li>
            </ul>
-- ⚡ Fun fact: coding is fun
+- ⚡ Fun fact: coding is fun :wink:
 
 ![MAZHARMIK's github stats](https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10)](https://github.com/MAZHARMIK/github-readme-stats)
