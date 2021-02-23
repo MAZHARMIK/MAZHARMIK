@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (94 :star:, 29 Forks)
+- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (95 :star:, 29 Forks)
 - 🌱 I’m currently learning Design Patterns
 - 📫 How to reach me: <br> 
             <ul>
