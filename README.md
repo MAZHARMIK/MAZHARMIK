@@ -1,6 +1,6 @@
 ### Hello world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" style="max-width:100%;" width="24px">
 
-Here are some ideas to get you started:
+Here are few things about me:
 
 - 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (120 :star:, 36 Forks)
 - 🔭 I’m also working on creating a <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a>
