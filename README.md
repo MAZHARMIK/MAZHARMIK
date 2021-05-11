@@ -2,7 +2,7 @@
 
 Here are few things about me:
 
-- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (130 :star:, 41 :fork_and_knife:)
+- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (131 :star:, 41 :fork_and_knife:)
 - 🔭 I’m also working on creating a <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a>
 - 🌱 I’m currently learning Design Patterns
 - 📫 How to reach me: <br> 
