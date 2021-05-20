@@ -18,6 +18,6 @@ Here are few things about me:
 <img src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966"/>
 
 <a target="_blank" rel="noopener noreferrer" href = "https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg">
-    <img alt="Thanks for visiting me" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;" width="100%" height="120">
+    <img alt="If you are open for Mock Interview Practice, please connect with me on LinkedIn" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;" width="100%" height="120">
 </a>
 
