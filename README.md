@@ -1,5 +1,7 @@
 ### Hello world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" style="max-width:100%;" width="24px">
 
+![](https://komarev.com/ghpvc/?username=MAZHARMIK)
+
 Here are few things about me:
 
 - 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (136 :star:, 43 :fork_and_knife:)
