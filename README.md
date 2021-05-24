@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=MAZHARMIK)
 
+Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{MAZHARMIK}/count.svg)
+
 Here are few things about me:
 
 - 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (136 :star:, 43 :fork_and_knife:)
