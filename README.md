@@ -2,7 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=MAZHARMIK)
 
-Visitor Count : ![Visitor Count](https://profile-counter.glitch.me/{MAZHARMIK}/count.svg)
 
 Here are few things about me:
 
