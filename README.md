@@ -5,7 +5,7 @@
 
 Here are few things about me:
 
-- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (140 :star:, 43 :fork_and_knife:)
+- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (141 :star:, 43 :fork_and_knife:)
 - 🔭 I’m also working on creating a <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a>
 - 🌱 I’m currently learning Design Patterns and getting hands dirty on Node.js:green_book:
 - Looking for people with whom I can practice Mock Interviews
