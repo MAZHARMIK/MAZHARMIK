@@ -10,11 +10,12 @@ Here are few things about me:
 - 🌱 I’m currently learning Design Patterns and getting hands dirty on Node.js:green_book:
 - Looking for people with whom I can practice Mock Interviews
 - 📫 How to reach me: <br> 
-            <ul>
-                  <li>Gmail :email:    : mkhan31995@gmail.com</li>
-                  <li>LinkedIn :earth_africa:: https://www.linkedin.com/in/mazhar-imam-khan-95a34ab3/</li>
-           </ul>
+      <a href="https://github.com/MAZHARMIK"><img alt="Github" src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-%2312100E.svg?&amp;style=for-the-badge&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a>
+      <a href="https://www.linkedin.com/in/mazhar-imam-khan-95a34ab3/" rel="nofollow"><img alt="LinkedIn" src="https://camo.githubusercontent.com/a493f6833f99fb3c85788d6d9305e6b7a42b838e5ee5d138fd9a8214a7e77472/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;"></a><br>
+      Email ✉️ mkhan31995@gmail.com
 - ⚡ Fun fact: coding is fun :wink:
+
+
 
 ![MAZHARMIK's github stats](https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10)](https://github.com/MAZHARMIK/github-readme-stats)
@@ -24,4 +25,3 @@ Here are few things about me:
 <a target="_blank" rel="noopener noreferrer" href = "https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg">
     <img alt="If you are open for Mock Interview Practice, please connect with me on LinkedIn" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" style="max-width:100%;" width="100%" height="120">
 </a>
-
