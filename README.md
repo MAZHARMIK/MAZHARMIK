@@ -5,7 +5,7 @@
 
 Here are few things about me:
 
-- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (159 :star:, 46 :fork_and_knife:)
+- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (160 :star:, 46 :fork_and_knife:)
 - 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a>
 - 🔭 Want to learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a>
 - 🌱 I’m currently learning Design Patterns and getting hands dirty on Node.js:green_book:
