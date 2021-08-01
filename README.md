@@ -4,7 +4,7 @@
 
 Here are few things about me:
 - 🏆 Currently Offers from _Microsoft, Tokopedia, Tower Research_
-- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (196 :star:, 68 :fork_and_knife:)
+- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (196 :star:, 69 :fork_and_knife:)
 - 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> (6 :star:, 1 :fork_and_knife:)
 - 🔭 Want to learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> (2 :star:, 1 :fork_and_knife:)
 - 🌱 I’m currently learning Design Patterns and getting hands dirty on Golang:green_book:
