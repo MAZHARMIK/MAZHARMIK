@@ -4,7 +4,7 @@
 
 Here are few things about me:
 - 🏆 Currently Offers from _Microsoft, Tokopedia, Tower Research_
-- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (223 :star:, 78 :fork_and_knife:) -> Only 22:fork_and_knife: left to make it :100: :scream:
+- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> (224 :star:, 78 :fork_and_knife:) -> Only 22:fork_and_knife: left to make it :100: :scream:
 - 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> (6 :star:, 1 :fork_and_knife:)
 - 🔭 Want to learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> (2 :star:, 1 :fork_and_knife:)
 - 🌱 I’m currently learning Design Patterns and getting hands dirty on Golang:green_book:
@@ -26,18 +26,17 @@ Profile on Coding Platforms:
       </p>
 <hr></hr>
 
-<p>
-      <string>GIthub Stats:</strong>
+<p align="center">
+      <string>Github Stats:</strong>
 </p>
 
 ![MAZHARMIK's github stats](https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10)](https://github.com/MAZHARMIK/github-readme-stats)
+[![MAZHARMIK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MAZHARMIK)](https://git.io/streak-stats)
 <br>
-
 
               🏆 My Contribution Graph with Snake Game 👇. Hurry up before the 🐍 eats all that up
 <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
-
 
 <p align="center">Show ❤️ by starring and forking repositories you find good! </p>
 <p align="center"><img src="https://camo.githubusercontent.com/7da528df692aea867b90800324488b633f5a8328d74c05a02c26483c0a267799/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5468616e6b73253230666f722532307669736974696e672d212d3145414544422e737667" alt="Thanks!" data-canonical-src="https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg" style="max-width:100%;"> </p>
