@@ -26,10 +26,8 @@ Profile on Coding Platforms:
       </p>
 <hr></hr>
 
-<p align="center">
-      <string>Github Stats:</strong>
-</p>
-
+                                                        🏆 My Github Stats 🏆
+                             
 ![MAZHARMIK's github stats](https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10)](https://github.com/MAZHARMIK/github-readme-stats)
 [![MAZHARMIK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MAZHARMIK)](https://git.io/streak-stats)
