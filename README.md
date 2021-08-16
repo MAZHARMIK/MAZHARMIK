@@ -33,7 +33,7 @@ Profile on Coding Platforms:
 [![MAZHARMIK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MAZHARMIK)](https://git.io/streak-stats)
 <br>
 
-              🏆 My Contribution Graph with Snake Game 👇. Hurry up before the 🐍 eats all that up
+                  🏆 My Contribution Graph with Snake Game 👇. Hurry up before the 🐍 eats all that up
 <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
 
 <p align="center">Show ❤️ by starring and forking repositories you find good! </p>
