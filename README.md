@@ -27,11 +27,26 @@ Profile on Coding Platforms:
 <hr></hr>
 
                                                         🏆 My Github Stats 🏆
-                             
-![MAZHARMIK's github stats](https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10)](https://github.com/MAZHARMIK/github-readme-stats)
-[![MAZHARMIK's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MAZHARMIK)](https://git.io/streak-stats)
-<br>
+
+<!--
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MAZHARMIK"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10"> </p>
+-->
+
+<table>
+      <thead>
+            <tr>
+                  <th>
+                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MAZHARMIK&show_icons=true&theme=radical"></p>
+                  </th>
+                  <th>
+                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MAZHARMIK"> </p>
+                  </th>
+            </tr>
+      </thead>
+</table>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10"> </p>
 
                   🏆 My Contribution Graph with Snake Game 👇. Hurry up before the 🐍 eats all that up
 <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
