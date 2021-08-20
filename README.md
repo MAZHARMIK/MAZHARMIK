@@ -48,7 +48,7 @@ Profile on Coding Platforms:
 </table>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10"> </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MAZHARMIK)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MAZHARMIK&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
                   🏆 My Contribution Graph with Snake Game 👇. Hurry up before the 🐍 eats all that up
