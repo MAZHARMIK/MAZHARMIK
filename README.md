@@ -4,11 +4,11 @@
 
 Here are few things about me:
 - 🏆 Offers from _Microsoft, Tokopedia, Tower Research_
+- Support my Youtube Channel : <a href = "https://www.youtube.com/channel/UCaw58edcO3ZqMw76Bvs0kGQ"> INTERVIEW_DS_ALGO</a>
 - 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (364 :star:, 141 :fork_and_knife:) (Only 9:fork_and_knife: left to make it :150: :scream:)
 - 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> :arrow_right: (21 :star:, 6 :fork_and_knife:)
 - 🔭 Learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> :arrow_right: (11 :star:, 2 :fork_and_knife:)
 - 🌱 I’m currently learning "Design Patterns", getting hands dirty on "Golang":green_book: and going through "Elastic Stack" :monocle_face:
-- Support my Youtube Channel : <a href = "https://www.youtube.com/channel/UCaw58edcO3ZqMw76Bvs0kGQ"> INTERVIEW_DS_ALGO</a>
 - 📫 How to reach me:
       <a href="https://github.com/MAZHARMIK"><img src="https://camo.githubusercontent.com/5c8c95ac48ba4bcc1018a7c80c530bcd4c82794d4655999472465b625e76a17e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c6174266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" alt="Github" data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a>
       <a href="https://www.linkedin.com/in/mazhar-imam-khan-95a34ab3/" rel="nofollow"><img src="https://camo.githubusercontent.com/6dc9828248fb64760c234f5b24c275a4912e9bb546c281d0c8e67cecb3381669/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>  
