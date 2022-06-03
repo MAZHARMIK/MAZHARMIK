@@ -1,4 +1,4 @@
-### Hello world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width:100%;" width="29px"> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" style="max-width:100%;" width="24px">
+### Hello world :wave: :earth_africa:
 
 ![](https://komarev.com/ghpvc/?username=MAZHARMIK)
 
