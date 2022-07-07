@@ -14,6 +14,7 @@ Here are few things about me:
       <a href="https://www.linkedin.com/in/mazhar-imam-khan-95a34ab3/" rel="nofollow"><img src="https://github.com/terrytangyuan/terrytangyuan/blob/master/imgs/linkedin.svg" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&amp;logo=Linkedin&amp;logoColor=white" style="max-width:100%;"></a>  
 - :e-mail: mkhan31995@gmail.com
 - ⚡ Fun fact: coding is fun :wink:
+- Want to see my Linktree - <a href="https://linktr.ee/mazhar_mik">CLICK HERE ➡️</a>
 
 <hr></hr>
 
