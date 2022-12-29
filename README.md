@@ -50,10 +50,7 @@ Profile on Coding Platforms:
 </table>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAZHARMIK&langs_count=10"> </p>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=MAZHARMIK&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-                  🏆 My Contribution Graph with Snake Game 👇. Hurry up before the 🐍 eats all that up
 <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
 
 <p align="center">Show ❤️ by starring and forking repositories you find good! </p>
