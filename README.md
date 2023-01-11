@@ -61,3 +61,8 @@ Profile on Coding Platforms:
 <h2 dir="auto"><a id="user-content--start-your-day-with-inspiring-quotes" class="anchor" aria-hidden="true" href="#-start-your-day-with-inspiring-quotes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>✍🏻 Start Your Day With Inspiring Quotes:</h2>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b7c67ba3ecb971c23151df66eeb63ef106f1b3047e948399c5504457dc340735/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d766572746963616c267468656d653d766973696f6e2d667269656e646c792d6461726b"><img src="https://camo.githubusercontent.com/b7c67ba3ecb971c23151df66eeb63ef106f1b3047e948399c5504457dc340735/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d766572746963616c267468656d653d766973696f6e2d667269656e646c792d6461726b" alt="" data-canonical-src="https://quotes-github-readme.vercel.app/api?type=vertical&amp;theme=vision-friendly-dark" style="max-width: 100%;"></a>
 </p></details>
+
+
+# My YouTube Channel Name - codestorywithMIK
+
+<img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/codestorywithMIK.png" align="right" />
