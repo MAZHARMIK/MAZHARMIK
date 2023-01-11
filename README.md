@@ -4,10 +4,10 @@
 
 Here are few things about me:
 - 🏆 Offers from _Microsoft, Tokopedia, Tower Research_
-- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" style="width:40px;height:40px;"> (**Subscribers** : 1200+:hearts:)
-- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (475 :star:, 167 :fork_and_knife:) (Only 33:fork_and_knife: left to make it :200: :scream:)
-- 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> :arrow_right: (30 :star:, 7 :fork_and_knife:)
-- 🔭 Learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> :arrow_right: (14 :star:, 6 :fork_and_knife:)
+- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" style="width:40px;height:40px;"> (**Subscribers** : 1400+:hearts:)
+- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (479 :star:, 169 :fork_and_knife:) (Only 31:fork_and_knife: left to make it :200: :scream:)
+- 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> :arrow_right: (31 :star:, 7 :fork_and_knife:)
+- 🔭 Learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> :arrow_right: (14 :star:, 7 :fork_and_knife:)
 - 🌱 I’m currently learning "System Design", getting hands dirty on "Golang":green_book: and going through "Elastic Stack" :monocle_face:
 - 📫 How to reach me:
       <a href="https://github.com/MAZHARMIK"><img src="https://camo.githubusercontent.com/5c8c95ac48ba4bcc1018a7c80c530bcd4c82794d4655999472465b625e76a17e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303f7374796c653d666c6174266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" alt="Github" data-canonical-src="https://img.shields.io/badge/-Github-000?style=flat&amp;logo=Github&amp;logoColor=white" style="max-width:100%;"></a>
