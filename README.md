@@ -4,8 +4,8 @@
 
 Here are few things about me:
 - 🏆 Offers from _Microsoft, Tokopedia, Tower Research_
-- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" style="width:40px;height:40px;"> (**Subscribers** : 1700+:hearts:)
-- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (485 :star:, 172 :fork_and_knife:) (Only 28:fork_and_knife: left to make it :200: :scream:)
+- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" style="width:40px;height:40px;"> (**Subscribers** : 1800+:hearts:)
+- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (489 :star:, 174 :fork_and_knife:) (Only 26:fork_and_knife: left to make it :200: :scream:)
 - 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> :arrow_right: (31 :star:, 7 :fork_and_knife:)
 - 🔭 Learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> :arrow_right: (14 :star:, 7 :fork_and_knife:)
 - 🌱 I’m currently learning "System Design", getting hands dirty on "Golang":green_book: and going through "Elastic Stack" :monocle_face:
