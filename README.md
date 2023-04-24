@@ -4,10 +4,10 @@
 
 Here are few things about me:
 - 🏆 Offers from _Microsoft, Tokopedia, Tower Research_
-- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" style="width:40px;height:40px;"> (**Subscribers** : 3000+:hearts:)
+- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" style="width:40px;height:40px;"> (**Subscribers** : 3400+:hearts:)
 - You can book one to one sessions with me on : <a href = "https://topmate.io/mazhar_mik">topmate.io</a>
 - Official Facebook Page - <a href = "https://www.facebook.com/profile.php?id=100090524295846">codestorywithMIK-Facebook</a>
-- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (544 :star:, 192 :fork_and_knife:) (Only 8:fork_and_knife: left to make it :200: :scream:)
+- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (555 :star:, 197 :fork_and_knife:) (Only 3:fork_and_knife: left to make it :200: :scream:)
 - 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> :arrow_right: (35 :star:, 8 :fork_and_knife:)
 - 🔭 Learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> :arrow_right: (15 :star:, 8 :fork_and_knife:)
 - 🌱 I’m currently learning "System Design", getting hands dirty on "Golang":green_book: and going through "Elastic Stack" :monocle_face:
