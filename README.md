@@ -10,6 +10,7 @@ Here are few things about me:
 - You can book one to one sessions with me on : <a href = "https://topmate.io/mazhar_mik">topmate.io</a>
 - Official Facebook Page - <a href = "https://www.facebook.com/profile.php?id=100090524295846">codestorywithMIK-Facebook</a>
 - Official Instagram Page - <a href = "https://www.instagram.com/codestorywithmik/">codestorywithMIK-Instagram</a>
+- Official Instagram Page - <a href = "https://twitter.com/CSwithMIK">codestorywithMIK-Twitter</a>
 - 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (606 :star:, 266 :fork_and_knife:) (Only 34:fork_and_knife: left to make it :300: :scream:)
 - 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> :arrow_right: (37 :star:, 11 :fork_and_knife:)
 - 🔭 Learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> :arrow_right: (26 :star:, 12 :fork_and_knife:)
