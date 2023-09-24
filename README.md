@@ -11,7 +11,7 @@ Here are few things about me:
 - Official Facebook Page - <a href = "https://www.facebook.com/profile.php?id=100090524295846">codestorywithMIK-Facebook</a>
 - Official Instagram Page - <a href = "https://www.instagram.com/codestorywithmik/">codestorywithMIK-Instagram</a>
 - Official Instagram Page - <a href = "https://twitter.com/CSwithMIK">codestorywithMIK-Twitter</a>
-- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (718 :star:, 317 :fork_and_knife:) (Only 98:fork_and_knife: left to make it :400: :scream:)
+- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (740 :star:, 341 :fork_and_knife:) (Only 98:fork_and_knife: left to make it :400: :scream:)
 - 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> :arrow_right: (37 :star:, 11 :fork_and_knife:)
 - 🔭 Learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> :arrow_right: (26 :star:, 12 :fork_and_knife:)
 - 🌱 I’m currently learning "System Design", getting hands dirty on "Golang":green_book: and going through "Elastic Stack" :monocle_face:
