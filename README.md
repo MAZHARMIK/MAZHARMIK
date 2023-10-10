@@ -1,10 +1,13 @@
 ### Hello world :wave: :earth_africa:
 
+### Thank you for helping my channel reach 10k Subscribers.  
+<img src="https://www.gstatic.com/emkt/ytc_subs_counter10k_16.gif" align="center"/>
+
 ![](https://komarev.com/ghpvc/?username=MAZHARMIK)
 
 Here are few things about me:
 - 🏆 Offers from _Microsoft, Tokopedia, Tower Research_
-- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" style="width:40px;height:40px;"> (**Subscribers** : 9500+:hearts:)
+- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" style="width:40px;height:40px;"> (**Subscribers** : 10k+:hearts:)
 - You can book one to one sessions with me on : <a href = "https://topmate.io/mazhar_mik">topmate.io</a>
 - Official Facebook Page - <a href = "https://www.facebook.com/profile.php?id=100090524295846">codestorywithMIK-Facebook</a>
 - Official Instagram Page - <a href = "https://www.instagram.com/codestorywithmik/">codestorywithMIK-Instagram</a>
