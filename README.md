@@ -7,7 +7,7 @@
 
 Here are few things about me:
 - 🏆 Offers from _Microsoft, Tokopedia, Tower Research_
-- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" style="width:40px;height:40px;"> (**Subscribers** : 14k+:hearts:)
+- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" style="width:40px;height:40px;"> (**Subscribers** : 14k+:hearts:)
 - You can book one to one sessions with me on : <a href = "https://topmate.io/mazhar_mik">topmate.io</a>
 - Official Whatsapp Page - <a href = "https://whatsapp.com/channel/0029Va6kVSjICVfiVdsHgi1A">codestorywithMIK-Whatsapp</a>
 - Official Facebook Page - <a href = "https://www.facebook.com/profile.php?id=100090524295846">codestorywithMIK-Facebook</a>
