@@ -1,13 +1,13 @@
 ### Hello world :wave: :earth_africa:
 
-### Thank you for helping my channel reach 10k Subscribers.  
+### Thank you for helping my channel reach 10K+ Subscribers.  
 <img src="https://www.gstatic.com/emkt/ytc_subs_counter10k_16.gif" align="center"/>
 
 ![](https://komarev.com/ghpvc/?username=MAZHARMIK)
 
 Here are few things about me:
 - 🏆 Cracked interviews of _Microsoft, Tokopedia, Tower Research_
-- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" style="width:40px;height:40px;"> (**Subscribers** : 15k+:hearts:)
+- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" style="width:40px;height:40px;"> (**Subscribers** : 17K+ :hearts:)
 - You can book one to one sessions with me on : <a href = "https://topmate.io/mazhar_mik">topmate.io</a>
 - Official Whatsapp Page - <a href = "https://whatsapp.com/channel/0029Va6kVSjICVfiVdsHgi1A">codestorywithMIK-Whatsapp</a>
 - Official Facebook Page - <a href = "https://www.facebook.com/profile.php?id=100090524295846">codestorywithMIK-Facebook</a>
