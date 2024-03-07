@@ -6,13 +6,13 @@
 ![](https://komarev.com/ghpvc/?username=MAZHARMIK)
 
 Here are few things about me:
-- 🏆 Cracked interviews of   
-        _Mentor Graphics/Siemens EDA (Joined :computer:)  
-        Microsoft  
-        Tokopedia  (Joined :computer:)  
-        Tower Research  
-        ThoughtWorks  
-        Expedia (Joined :computer:) - Upcoming SDE-III_
+- :technologist: **Cracked interviews of :arrow_heading_down:**  
+         &ensp;&ensp; 🏆 _Mentor Graphics/Siemens EDA (Joined :computer:)  
+         &ensp;&ensp; 🏆 Microsoft  
+         &ensp;&ensp; 🏆 Tokopedia  (Joined :computer:)  
+         &ensp;&ensp; 🏆 Tower Research  
+         &ensp;&ensp; 🏆 ThoughtWorks  
+         &ensp;&ensp; 🏆 Expedia (Joined :computer:) - Upcoming SDE-III_
 - Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" style="width:40px;height:40px;"> (**Subscribers** : 29K+ :hearts:)
 - You can book one to one sessions with me on : <a href = "https://topmate.io/mazhar_mik">topmate.io</a> (CURRENTLY PAUSED IT DUE TO TIGHT SCHEDULE)
 - Official Whatsapp Page - <a href = "https://whatsapp.com/channel/0029Va6kVSjICVfiVdsHgi1A">codestorywithMIK-Whatsapp</a>
