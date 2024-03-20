@@ -12,7 +12,7 @@ Here are few things about me:
          &ensp;&ensp; 🏆 Tokopedia  (Joined :computer:)  
          &ensp;&ensp; 🏆 Tower Research  
          &ensp;&ensp; 🏆 ThoughtWorks  
-         &ensp;&ensp; 🏆 Expedia (Joined :computer:) - Upcoming SDE-III_
+         &ensp;&ensp; 🏆 Expedia (Joined :computer:)
 - Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" style="width:40px;height:40px;"> (**Subscribers** : 34K+ :hearts:)
 - My YouTube Videos List in Doc Sheet - <a href = "https://docs.google.com/document/d/1Hqdu5bivW6kHBSr-hGyvO2kYOKkyTtM3qmhmHYH7s7o/edit"> codestorywithMIK - YouTube Treasure </a>
 - DSA Sheet For Masters - <a href = "https://docs.google.com/spreadsheets/d/1LO1BLTebhrcRfEpPjIOutKvOFSFaFM3Ph1EjA12x_zE/edit?pli=1#gid=80669326">DSA SHEET-1 (codestorywithMIK)</a>
