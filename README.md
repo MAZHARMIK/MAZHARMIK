@@ -24,7 +24,8 @@ Here are few things about me:
 - 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (838 :star:, 427 :fork_and_knife:) (Only 89:fork_and_knife: left to make it :500: :scream:)
 - 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> :arrow_right: (48 :star:, 16 :fork_and_knife:)
 - 🔭 Learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> :arrow_right: (37 :star:, 19 :fork_and_knife:)
-- 🌱 I’m currently learning "System Design", getting hands dirty on "Golang":green_book: and going through "Elastic Stack" :monocle_face:
+- 🌱 I got my hands dirty on "System Design", "Golang" :green_book: and "Elastic Stack" :monocle_face: last year during 2023-2024
+- Currently I am trying to deep dive in AWS :computer: and Cloud Computing :cloud: as well as JAVA and frameworks :framed_picture: .
 - 📫 How to reach me on LinkedIn:
       <a href="https://www.linkedin.com/in/mazhar-imam-khan-95a34ab3/" rel="nofollow">LinkedIn Profile</a>  
 - :e-mail: mkhan31995@gmail.com
