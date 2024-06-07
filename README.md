@@ -7,7 +7,7 @@
 
 Here are few things about me:
 - :technologist: **Cracked interviews of :arrow_heading_down:**  
-         &ensp;&ensp; 🏆 _Mentor Graphics/Siemens EDA (Joined :computer:)  
+         &ensp;&ensp; 🏆 Mentor Graphics/Siemens EDA (Joined :computer:)  
          &ensp;&ensp; 🏆 Microsoft  
          &ensp;&ensp; 🏆 Tokopedia  (Joined :computer:)  
          &ensp;&ensp; 🏆 Tower Research  
