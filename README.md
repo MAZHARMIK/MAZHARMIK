@@ -73,4 +73,4 @@ Profile on Coding Platforms:
 
 # My YouTube Channel Name - codestorywithMIK
 
-<img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/codestorywithMIK.png" align="right" />
+<img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/codestorywithmik.png" align="right" />
