@@ -1,7 +1,7 @@
 ### Hello world :wave: :earth_africa:
 
 ### Thank you for helping my channel reach 34K+ Subscribers.  
-<img src="https://www.gstatic.com/emkt/ytc_subs_counter10k_16.gif" align="center" width="200"/> <img src="https://media1.tenor.com/m/_jMEL3yilMIAAAAC/family-members.gif" align="center" width="200"/>
+<img src="https://www.gstatic.com/emkt/ytc_subs_counter10k_16.gif" align="center" width="200"/> :arrow_right::arrow_right::arrow_right: <img src="https://media1.tenor.com/m/_jMEL3yilMIAAAAC/family-members.gif" align="center" width="200"/> :arrow_right::arrow_right::arrow_right: <img src="https://img.freepik.com/premium-vector/thank-you-50k-subscribers-followers-congratulation-card-web-social-media-modern-post-design_755998-671.jpg" align="center" width="200"/>
 
 ![](https://komarev.com/ghpvc/?username=MAZHARMIK)
 
@@ -13,7 +13,7 @@ Here are few things about me:
          &ensp;&ensp; 🏆 Tower Research  
          &ensp;&ensp; 🏆 ThoughtWorks  
          &ensp;&ensp; 🏆 Expedia (Joined :computer:)
-- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" style="width:40px;height:40px;"> (**Subscribers** : 49K+ :hearts:) <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/icons8-youtube.gif"/>
+- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" style="width:40px;height:40px;"> (**Subscribers** : 50K+ :hearts:) <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/icons8-youtube.gif"/>
 - My YouTube Videos List in Doc Sheet - <a href = "https://docs.google.com/document/d/1Hqdu5bivW6kHBSr-hGyvO2kYOKkyTtM3qmhmHYH7s7o/edit"> codestorywithMIK - YouTube Treasure </a>
 - DSA Sheet For Masters - <a href = "https://docs.google.com/spreadsheets/d/1LO1BLTebhrcRfEpPjIOutKvOFSFaFM3Ph1EjA12x_zE/edit?pli=1#gid=80669326">DSA SHEET-1 (codestorywithMIK)</a>
 - You can book one to one sessions with me on : <a href = "https://topmate.io/mazhar_mik">topmate.io</a> (CURRENTLY PAUSED IT DUE TO TIGHT SCHEDULE)
