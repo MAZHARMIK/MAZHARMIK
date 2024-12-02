@@ -1,6 +1,6 @@
 ### Hello world :wave: :earth_africa:
 
-### Thank you for helping my channel reach 50K+ Subscribers.  
+### Thank you for helping my channel reach 74K+ Subscribers.  
 <img src="https://www.gstatic.com/emkt/ytc_subs_counter10k_16.gif" align="center" width="200"/> :arrow_right::arrow_right::arrow_right: <img src="https://media1.tenor.com/m/_jMEL3yilMIAAAAC/family-members.gif" align="center" width="200"/> :arrow_right::arrow_right::arrow_right: <img src="https://img.freepik.com/premium-vector/thank-you-50k-subscribers-followers-congratulation-card-web-social-media-modern-post-design_755998-671.jpg" align="center" width="200"/>
 
 ![](https://komarev.com/ghpvc/?username=MAZHARMIK)
