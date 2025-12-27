@@ -13,7 +13,7 @@ Here are few things about me:
          &ensp;&ensp; 🏆 Tower Research  
          &ensp;&ensp; 🏆 ThoughtWorks  
          &ensp;&ensp; 🏆 Expedia (Joined :computer:)
-- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" style="width:40px;height:40px;"> (**Subscribers** : 100K+ :hearts:) <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/icons8-youtube.gif"/>
+- Support my Youtube Channel : <a href = "https://www.youtube.com/@codestorywithMIK"> codestorywithMIK</a> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" style="width:40px;height:40px;"> (**Subscribers** : 120K+ :hearts:) <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/icons8-youtube.gif"/>
 - My YouTube Videos List in Doc Sheet - <a href = "https://docs.google.com/document/d/1Hqdu5bivW6kHBSr-hGyvO2kYOKkyTtM3qmhmHYH7s7o/edit"> codestorywithMIK - YouTube Treasure </a>
 - DSA Sheet For Masters - <a href = "https://docs.google.com/spreadsheets/d/1LO1BLTebhrcRfEpPjIOutKvOFSFaFM3Ph1EjA12x_zE/edit?pli=1#gid=80669326">DSA SHEET-1 (codestorywithMIK)</a>
 - You can book one to one sessions with me on : <a href = "https://topmate.io/mazhar_mik">topmate.io</a> (CURRENTLY PAUSED IT DUE TO TIGHT SCHEDULE)
@@ -21,9 +21,9 @@ Here are few things about me:
 - Official Facebook Page - <a href = "https://www.facebook.com/profile.php?id=100090524295846">codestorywithMIK-Facebook</a>
 - Official Instagram Page - <a href = "https://www.instagram.com/codestorywithmik/">codestorywithMIK-Instagram</a>
 - Official Twitter Page - <a href = "https://twitter.com/CSwithMIK">codestorywithMIK-Twitter</a>
-- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (2.5k :star:, 1.3k :fork_and_knife:) (Only 800:fork_and_knife: left to make it :2k: :scream:)
-- 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> :arrow_right: (102 :star:, 36 :fork_and_knife:)
-- 🔭 Learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> :arrow_right: (157 :star:, 68 :fork_and_knife:)
+- 🔭 I’m currently working on creating a <a href="https://github.com/MAZHARMIK/Interview_DS_Algo">DS & Algo Package for Interview</a> :arrow_right: (3.5k :star:, 1.7k :fork_and_knife:) (Only 800:fork_and_knife: left to make it :2k: :scream:)
+- 🔭 Check this out <a href="https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp">Crash Course for C++ OOPs Interview</a> :arrow_right: (120 :star:, 48 :fork_and_knife:)
+- 🔭 Learn how to use awesome C++ STLs while problem solving, Check out my treasure <a href="https://github.com/MAZHARMIK/Cpp-STL-Quick-Help">Cpp-STL-Quick-Help</a> :arrow_right: (206 :star:, 79 :fork_and_knife:)
 - 🌱 I got my hands dirty on "System Design", "Golang" :green_book: and "Elastic Stack" :monocle_face: last year during 2023-2024
 - Currently I am trying to deep dive in AWS :computer: and Cloud Computing :cloud: as well as JAVA and frameworks :framed_picture: .
 - 📫 How to reach me on LinkedIn:
