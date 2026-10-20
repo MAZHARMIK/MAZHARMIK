@@ -29,6 +29,7 @@
 - 🔭 Currently building a massive [**DS & Algo Interview Package**](https://github.com/MAZHARMIK/Interview_DS_Algo) — help me push it past ⭐ 2k stars!
 - 🌱 Deep-diving into **System Design**, **Golang**, and the **Elastic Stack** (2023–2024)
 - ☁️ Now exploring **AWS**, **Cloud Computing**, **AI**, **Java** and modern frameworks
+- 🤖 Currently building a [**Python AI Agent with Ollama**](https://github.com/MAZHARMIK/python-ai-agent-ollama) *(In Progress 🚧)*
 - ⚡ Fun fact: coding is fun. No really, it is. 😄
 
 <br clear="right"/>
@@ -95,6 +96,7 @@
 | 🧠 [Interview DS & Algo Package](https://github.com/MAZHARMIK/Interview_DS_Algo) | ⭐ 5.1k | 🍴 2.1k | Push forks from 2.1k → 3k! |
 | ⚙️ [C++ OOP Crash Course](https://github.com/MAZHARMIK/OOP_Crash_Course_Cpp) | ⭐ 135 | 🍴 51 | Growing steadily |
 | 📚 [C++ STL Quick Help](https://github.com/MAZHARMIK/Cpp-STL-Quick-Help) | ⭐ 250 | 🍴 103 | Handy reference for STL |
+| 🤖 [Python AI Agent (Ollama)](https://github.com/MAZHARMIK/python-ai-agent-ollama) | 🚧 In Progress | | Building a local AI agent with Ollama |
 
 <br/>
 
@@ -130,7 +132,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,go,aws,elasticsearch,docker,git,github,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,go,python,aws,elasticsearch,docker,git,github,linux&theme=dark" />
 
 <br/><br/>
 
