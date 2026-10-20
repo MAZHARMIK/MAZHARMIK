@@ -7,7 +7,7 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=MAZHARMIK&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile views"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Cracking+Interviews+one+problem+at+a+time+%F0%9F%9A%80;Software+Engineer+%40+Expedia;Building+DS%2C+Algo+%26+System+Design+content;155K%2B+Family+on+YouTube+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Cracking+Interviews+one+problem+at+a+time+%F0%9F%9A%80;Software+Engineer+%40+Expedia;Building+DS%2C+Algo+%26+System+Design+content;162K%2B+Family+on+YouTube+%E2%9D%A4%EF%B8%8F" alt="Typing SVG"/>
 
 </div>
 
